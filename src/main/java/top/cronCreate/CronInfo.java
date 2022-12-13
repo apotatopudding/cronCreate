@@ -1,5 +1,10 @@
 package top.cronCreate;
 
+/**
+ * @author apotatopudding
+ * @date 2022/12/13 23:23
+ */
+
 public class CronInfo {
     public String second = "*";
     public String minute = "*";
